@@ -12,7 +12,7 @@
 
 2+ years in a multi-tenant Security Operations Center
 
-- Investigated and escalated security alerts from SIEM, NGFW, VPN, IDS, and EDR systems
+- Investigated and escalated security alerts from SIEM, WAF, NGFW, VPN, IDS, and EDR systems
 - Worked across various client environments to identify, contain, and document incidents
 - Communicated with clients via service managers to clarify incidents and propose mitigation steps
 - Participated in cyber exercises and internal simulations with prize-winning results
